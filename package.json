@@ -1,0 +1,23 @@
+{
+  "name": "add2zip",
+  "version": "1.0.0",
+  "description": "Add file to a new or existing zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one1erp/add2zip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one1erp/add2zip/issues"
+  },
+  "homepage": "https://github.com/one1erp/add2zip#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.5"
+  }
+}
