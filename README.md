@@ -13,10 +13,8 @@ npm install one1erp/add2zip
 
 ## using
 
-
-`const add2zip = require('add2zip');`
-`add2zip(zipFilePath, filePath)`
-
+	const add2zip = require('add2zip');
+	add2zip(zipFilePath, filePath);
 
 ## Contributors
 
